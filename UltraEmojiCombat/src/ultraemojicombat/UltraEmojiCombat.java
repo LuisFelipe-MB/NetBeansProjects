@@ -31,7 +31,7 @@ public class UltraEmojiCombat {
                             105.7f, 12, 2, 4);
        
        Luta UEC01 = new Luta();
-       UEC01.marcarLuta(l[4], l[3]);
+       UEC01.marcarLuta(l[2], l[3]);
        UEC01.lutar();
     }
     
