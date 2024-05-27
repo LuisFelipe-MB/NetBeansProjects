@@ -9,7 +9,7 @@ package labpets;
  * @author Usuario
  */
 public class Mamifero extends Animal {
-    private String corPelo;
+    protected String corPelo;
 
     @Override
     public void locomover(){

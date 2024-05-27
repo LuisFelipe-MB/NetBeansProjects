@@ -9,7 +9,7 @@ package labpets;
  * @author Usuario
  */
 public class Ave extends Animal{
-    private String corPena;
+    protected String corPena;
     
     public void fazerNinho(){
         System.out.println("A ave fez um ninho para seus filhotes");

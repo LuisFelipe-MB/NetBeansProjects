@@ -9,7 +9,7 @@ package labpets;
  * @author Usuario
  */
 public class Peixe extends Animal{
-    private String corEscama;
+    protected String corEscama;
     
     public void soltarBolha(){
         System.out.println("O peixe soltou uma bolha ..OOOO..");

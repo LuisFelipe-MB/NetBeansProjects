@@ -10,7 +10,7 @@ package labpets;
  */
 public class Reptil extends Animal{
     
-    private String corEscama;
+    protected String corEscama;
 
     @Override
     public void locomover(){
